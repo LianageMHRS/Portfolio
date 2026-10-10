@@ -1,4 +1,4 @@
-# Yashodha Jayasinghe — Portfolio
+# Samadhi Liyanage — Portfolio
 
 A full-stack portfolio: Vite + React frontend (with a Three.js "orchestration graph"
 hero animation), Express + MongoDB backend, Cloudinary for images, and a Claude-powered
