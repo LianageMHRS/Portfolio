@@ -1,0 +1,23 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Samadhi Liyanage Portfolio Icon</title>
+  <desc id="desc">Modern portfolio brand icon with initials SL on a dark blue gradient background.</desc>
+  <defs>
+    <linearGradient id="bg" x1="72" y1="72" x2="440" y2="440" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset="0.5" stop-color="#111827"/>
+      <stop offset="1" stop-color="#1F2937"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="120" y1="120" x2="400" y2="400" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7DD3FC"/>
+      <stop offset="0.45" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#F9A8D4"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="512" height="512" rx="128" fill="url(#bg)"/>
+  <circle cx="380" cy="118" r="58" fill="url(#accent)" opacity="0.22"/>
+  <circle cx="130" cy="402" r="70" fill="url(#accent)" opacity="0.14"/>
+
+  <path d="M250 171C234 151 207 145 184 155C159 166 151 195 168 214C181 229 207 236 233 246C266 258 280 278 272 307C264 336 235 354 205 350C184 347 168 336 156 321" stroke="url(#accent)" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M310 162V327C310 343 319 352 335 352H380" stroke="#F8FAFC" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
