@@ -9,7 +9,7 @@ import client from "../api/client.js";
 
 const SUGGESTIONS = [
   "What's their strongest technical area?",
-  "Tell me about the Nexar project.",
+  "Tell me about the CricAI project.",
   "What AI tools do they use day-to-day?",
 ];
 
