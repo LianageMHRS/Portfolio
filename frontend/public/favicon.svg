@@ -1,6 +1,6 @@
 <svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Yashodha Jayasinghe Portfolio Icon</title>
-  <desc id="desc">Modern portfolio brand icon with initials YJ on a dark blue gradient background.</desc>
+  <title id="title">Samadhi Liyanage Portfolio Icon</title>
+  <desc id="desc">Modern portfolio brand icon with initials SL on a dark blue gradient background.</desc>
   <defs>
     <linearGradient id="bg" x1="72" y1="72" x2="440" y2="440" gradientUnits="userSpaceOnUse">
       <stop stop-color="#0B1020"/>
@@ -18,9 +18,6 @@
   <circle cx="380" cy="118" r="58" fill="url(#accent)" opacity="0.22"/>
   <circle cx="130" cy="402" r="70" fill="url(#accent)" opacity="0.14"/>
 
-  <path d="M146 136H214L273 242L332 136H400L290 286V380H222V286L146 136Z" fill="url(#accent)"/>
-  <path d="M223 136H290L380 380H308L282 314H231L206 380H136L223 136ZM252 247L238 279H273L252 247Z" fill="#F8FAFC"/>
-
-  <path d="M154 130H204L145 208H93L154 130Z" fill="#F8FAFC" opacity="0.9"/>
-  <path d="M356 130H406L347 208H295L356 130Z" fill="#F8FAFC" opacity="0.9"/>
+  <path d="M250 171C234 151 207 145 184 155C159 166 151 195 168 214C181 229 207 236 233 246C266 258 280 278 272 307C264 336 235 354 205 350C184 347 168 336 156 321" stroke="url(#accent)" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M310 162V327C310 343 319 352 335 352H380" stroke="#F8FAFC" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

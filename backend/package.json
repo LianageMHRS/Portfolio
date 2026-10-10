@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "Backend for Yashodha Jayasinghe's portfolio. Runs in two modes: public (read-only + AI chat, safe to deploy) and admin (full read/write, local only).",
+  "description": "Backend for Samadhi Liyanage's portfolio. Runs in two modes: public (read-only + AI chat, safe to deploy) and admin (full read/write, local only).",
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js",
